@@ -32,11 +32,11 @@ pip install transformers
 
 * 1 - [Sentiment Analysis](https://github.com/razacode/Sentiment-Analysis-Movie-Review/blob/main/SA_2%20with%2010%20epocs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-sentiment-analysis/blob/master/2%20-%20Upgraded%20Sentiment%20Analysis.ipynb)
 
-    This file covers the workflow of a PyTorch with torchtext project. We'll learn how to: load data, create train/test/validation splits, build a vocabulary, create data iterators, define a model and implement the train/evaluate/test loop. The model will be appropriate and achieve some how good performance. I, have cover: using packed padded sequences, loading and using pre-trained word embeddings, different optimizers and RNN architectures.
+    This file covers the workflow of a PyTorch with torchtext project. We'll learn how to: load data, create train/test/validation splits, build a vocabulary, create data iterators, define a model and implement the train/evaluate/test loop. The model will be appropriate and achieve some how good performance. This part cover: using packed padded sequences, loading and using pre-trained word embeddings, different optimizers and RNN architectures.
 
 * 2 - [Convolutional Sentiment Analysis](https://github.com/razacode/Sentiment-Analysis-Movie-Review/blob/main/SA_4_with%201d%20cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb)
 
-    In this part, I, cover convolutional neural networks (CNNs) for sentiment analysis. This model will be an implementation of [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882).
+    In this part, cover convolutional neural networks (CNNs) for sentiment analysis. This model will be an implementation of [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882).
 
 ## References
 
